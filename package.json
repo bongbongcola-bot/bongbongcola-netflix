@@ -1,0 +1,8 @@
+{
+  "name": "bongbongcola-netflix",
+  "private": true,
+  "scripts": {
+    "config": "node make-config.js",
+    "start": "node serve.js"
+  }
+}
